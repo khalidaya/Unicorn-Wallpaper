@@ -71,8 +71,8 @@
   },
   {
     "name": "Multicoloured Flow",
-    "url": "https://iili.io/J7vDA8u.jpg",
-    "previewUrl": "https://iili.io/J7vDA8u.jpg",
+    "url": "https://iili.io/JYSnPS4.webp",
+    "previewUrl": "https://iili.io/JYSnPS4.webp",
     "categories": "Abstract, Amoled",
     "premium": false
   },
